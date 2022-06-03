@@ -1,1 +1,2 @@
 # MegRepo
+for basic projects
